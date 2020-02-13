@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML-lab", "ML-lab\ML-lab.csproj", "{CECB9661-05D5-42FA-88C7-2CBBF99FA914}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML-labML.Model", "ML-labML.Model\ML-labML.Model.csproj", "{7703C1D6-766B-408C-8B6E-702D40FE8B02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ML-labML.ConsoleApp", "ML-labML.ConsoleApp\ML-labML.ConsoleApp.csproj", "{42C67EB0-B2B8-478C-BA03-AAD1AEA18B93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CECB9661-05D5-42FA-88C7-2CBBF99FA914}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CECB9661-05D5-42FA-88C7-2CBBF99FA914}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CECB9661-05D5-42FA-88C7-2CBBF99FA914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7703C1D6-766B-408C-8B6E-702D40FE8B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7703C1D6-766B-408C-8B6E-702D40FE8B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7703C1D6-766B-408C-8B6E-702D40FE8B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7703C1D6-766B-408C-8B6E-702D40FE8B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C67EB0-B2B8-478C-BA03-AAD1AEA18B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C67EB0-B2B8-478C-BA03-AAD1AEA18B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C67EB0-B2B8-478C-BA03-AAD1AEA18B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C67EB0-B2B8-478C-BA03-AAD1AEA18B93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
