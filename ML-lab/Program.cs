@@ -1,5 +1,6 @@
 ﻿using System;
-using ML-labML.Model;
+using ML_labML.Model;
+
 
 namespace ML_lab
 {
